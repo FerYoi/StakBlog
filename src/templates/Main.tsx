@@ -26,17 +26,17 @@ const Main = (props: IMainProps) => (
           <Navbar>
             <li className="mr-6">
               <Link href="/">
-                <a>Home</a>
+                <a>Inicio</a>
               </Link>
             </li>
             <li className="mr-6">
-              <Link href="/about/">
-                <a>About</a>
+              <Link href="http://www.utn.edu.mx/">
+                <a>UTN</a>
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
-                GitHub
+              <a href="http://siienet.utn.edu.mx/paginas/alumnos/frminiciosesionalumno.php">
+                SIENET UTN
               </a>
             </li>
           </Navbar>
