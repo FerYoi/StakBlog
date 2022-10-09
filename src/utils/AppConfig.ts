@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  site_name: 'StackStudent',
+  title: 'Inicio',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
-  locale: 'en',
-  author: 'Anonymous',
+    'Conoce lo mejor para tu crecimiento',
+  url: 'http://www.utn.edu.mx/index.php',
+  locale: 'es',
+  author: 'Hertec',
   pagination_size: 5,
 };
