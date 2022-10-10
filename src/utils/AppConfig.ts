@@ -1,9 +1,9 @@
 export const AppConfig = {
   site_name: 'Stack',
   title: 'Inicio',
-  description: 'Descubre, Aprende y Crea',
+  description: 'Aprende y deja vivir',
   url: 'http://www.utn.edu.mx/index.php',
   locale: 'es',
   author: 'Hertec',
-  pagination_size: 6,
+  pagination_size: 4,
 };
