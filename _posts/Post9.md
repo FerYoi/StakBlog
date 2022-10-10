@@ -1,12 +1,12 @@
 ---
-title: 'My fifth post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: '2020-08-08'
-modified_date: '2020-08-08'
+title: 'Post nueve'
+description: Post nueve.
+date: '2022-10-10'
+modified_date: '2022-10-10'
 image: /assets/images/posts/random-img.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Post nueve
 
 Example with image:
 
