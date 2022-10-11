@@ -8,9 +8,16 @@ image: /assets/images/posts/random-img.jpg
 
 Post once
 
-![Error](@@baseUrl@@/assets/images/posts/error.png)
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-Example code block:
+# Primer nivel de encabezado
+## Segundo nivel de encabezado
+### Tercer nivel de encabezado
+#### Cuarto nivel de encabezado
 
 ```js
 function myFunction() {

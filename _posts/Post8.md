@@ -12,6 +12,7 @@ Example with image:
 
 ![Error](@@baseUrl@@/assets/images/posts/error.png)
 
+> Hola. Éste es un párrafo de texto incluido en un bloque de cita. Fíjate que tengo una sangría con respecto al margen izquierdo.
 Example code block:
 
 ```js
