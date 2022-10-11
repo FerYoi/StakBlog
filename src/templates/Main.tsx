@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { ReactNode } from 'react';
 
 import Link from 'next/link';
@@ -32,12 +33,12 @@ const Main = (props: IMainProps) => (
             <li className="mr-6">
               <Link href="http://www.utn.edu.mx/">
                 <a>UTN</a>
-              </Link>
+                </Link>
             </li>
             <li className="mr-6">
-              <a href="http://siienet.utn.edu.mx/paginas/alumnos/frminiciosesionalumno.php">
-                SIENET UTN
-              </a>
+            <Link href="http://siienet.utn.edu.mx/paginas/alumnos/frminiciosesionalumno.php"> 
+              <a> SIENET </a>
+            </Link>
             </li>
           </Navbar>
         </div>
